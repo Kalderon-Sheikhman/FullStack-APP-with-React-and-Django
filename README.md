@@ -174,7 +174,9 @@ To modify the two buttons in the Hero section, make changes in the ```frontend/s
 
 
 ## Copyright and License
-
-Copyright © 2022 Bob's Programming Academy. Code released under the MIT license.
+ Code released under the MIT license.
+ 
+ ###Credit to Bob's Programming Academy and  Meta through Coursera.
+ 
 
 
